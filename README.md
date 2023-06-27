@@ -1,3 +1,3 @@
-# adamqhenley.github.io
+# My Portfolio
 
 <a href="http://adamqhenley.github.io/WebAppProj">WebAppProj</a>
