@@ -1,3 +1,3 @@
 # adamqhenley.github.io
 
-<a href="https://github.com/adamqhenley/WebAppProj">WebAppProj</a>
+<a href="https://adamqhenley.github.io/WebAppProj">WebAppProj</a>
